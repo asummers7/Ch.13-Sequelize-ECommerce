@@ -1,13 +1,10 @@
-# Ch.12-MySQL-TeamData 
+# Ch.13-Sequelize-ECommerce
 
 
 ## Description
 The goal of this challenge was to showcase our mySQL skills. We were to create a backend Ecommerce server. The functionality will be shown through insomnia. The main goal was to see how different models in the sql schema relate to on another and the ability to map the data between them.  
 
 ## Table of Contents
-- [Ch.12-MySQL-TeamData](#ch12-mysql-teamdata)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
